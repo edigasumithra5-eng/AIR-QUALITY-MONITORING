@@ -1,0 +1,15 @@
+========================================
+       AIR QUALITY MONITORING SYSTEM
+========================================
+Time    Air Quality     Status          Alarm
+----------------------------------------
+10000   30              GOOD            OFF
+20000   50              GOOD            OFF
+30000   70              MODERATE        OFF
+40000   100             MODERATE        OFF
+50000   120             POOR            ON
+60000   200             POOR            ON
+70000   255             POOR            ON
+----------------------------------------
+Simulation Completed Successfully
+========================================
